@@ -1,5 +1,4 @@
-<script>
-         // Auto-play Music with Mute Toggle
+        // Auto-play Music with Mute Toggle
         const bgMusic = document.getElementById('bgMusic');
         const muteMusicBtn = document.getElementById('muteMusicBtn');
         const muteIcon = document.getElementById('muteIcon');
@@ -104,4 +103,3 @@
 
         // Dynamic footer year
         document.getElementById('footerYear').textContent = new Date().getFullYear();
-    </script>
